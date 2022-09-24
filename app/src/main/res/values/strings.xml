@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">live-demo-constraint-layout</string>
+    <string name="title_text">My Cool Title</string>
 </resources>
